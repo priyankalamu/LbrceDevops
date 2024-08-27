@@ -9,3 +9,6 @@ public class Welcome {
 	}
 
 }
+public class Hello{
+	System.out.println("Welcome to Devops lab");
+}
